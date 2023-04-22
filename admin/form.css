@@ -28,7 +28,7 @@ font-size: 25px;
 .list input{
     font-size: 20px;
 }
-.button{
+.button {
     position: relative;
     display: flex;
     flex-direction: row;
@@ -36,10 +36,16 @@ font-size: 25px;
     align-items: center;
     padding: 10px;
 }
+
 .button button{
     border: 2px dotted black;
     width: 100px;
     height: 30px;
     font-size: 20px;
+}
+.block{
+position: absolute;
+    left: 50%;
+
 }
 
