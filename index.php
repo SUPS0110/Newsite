@@ -14,7 +14,7 @@
     <div class="logo"><img src="https://png.pngtree.com/element_our/sm/20180516/sm_5afc4cd0dcaca.jpg" alt="logo">
 </div>
 <div class="title"><h1>NEWSITE</h1></div>
-<div class="admin"><button><a href="./admin/login.php">Admin</a></button></div>
+<div class="admin"><button><a href="./admin/login.php">ADMIN</a></button></div>
 </div>
 <div class="news">
     <?php  include_once ("./components.php/news.php"); ?>

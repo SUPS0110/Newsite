@@ -25,9 +25,19 @@
     border: 2px solid wheat;
     border-radius: 10px;
 }
+.admin button{
+    background-color: white;
+    width: 70px;
+    height: 30px;
+    border: 2px dotted blue;
+    border-radius: 10px;
+}
 .admin button a{
+    padding: 10px;
+    color: blue;
     font-size: 15px;
 }
+
 .title{
     height: fit-content;
     width: fit-content;
